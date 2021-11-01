@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Saitama
     
-➥ Creator : [@Don_Sflix](
-https://t.me/Sflix2k)
+➥ Creator : [@Don_Sflix]
 
 ➥ Language : Python3
 
