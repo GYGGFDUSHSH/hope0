@@ -198,7 +198,7 @@ async def ban(c, m):
         try:
             await c.send_message(
                 user_id,
-                f"You are Banned 🚫 to use this bot for **{ban_duration}** day(s) for the reason __{ban_reason}__ \n\n**Message from the admin 🤠**",
+                f"You are Banned 🚫 to use this bot for **{ban_duration}** day(s) for the reason __{ban_reason}__ \n\n**Message my Owner <a href='https://t.me/Don_Sflix/'>Don Sflix</a> 🤠**",
             )
             ban_log_text += "\n\nUser notified successfully!"
         except BaseException:
