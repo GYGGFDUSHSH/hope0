@@ -28,5 +28,5 @@ ABOUT = """
 
 ○ Library : Pyrogram Asyncio 1.13.0
 
-○ Our Group : [Click Here](https://t.me/Sflix2kchats)
+○ Sflix : <a href='https://t.me/Sflix2k/'>Our Channel</a>
 """
