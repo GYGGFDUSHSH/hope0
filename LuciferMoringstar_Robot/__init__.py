@@ -15,8 +15,12 @@ This is Bot Customised for Sflix
 This bot can give you Movies / Series Fills 
 On Pm and In our <a href='https://t.me/Sflix2kchats/'>Sflix Chats Group</a>
 And this is not an 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖡𝗈𝗍 
-If you Like to Create Bot Message my Owner <a href='https://t.me/Don_Sflix/'>Don Sflix</a>
-Join Our Channel <a href='<a href='https://t.me/Sflix2k/'>Sflix</a> and Enjoy 🙂
+If you Like to Create Bot Message my Owner <a href='https://t.me/Don_Sflix/'>Don Sflix</a> Join Our Channel <a href='https://t.me/Sflix2k/'>Sflix</a> and Enjoy 🙂
+
+○ How to Get movies in your group 
+Step 1 : Add me to your group As Admin 
+That's All 🙂 then I will provide movies In your Group   <a href='https://t.me/sflix_v3_dd_bot?startgroup=true/'>➕Add me to Your Group➕</a>
+
 """
 
 ABOUT = """
