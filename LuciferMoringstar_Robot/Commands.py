@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("➕Add Me To Your Group➕",https://t.me/sflix_v3_dd_bot?startgroup="true")
+                InlineKeyboardButton("➕Add Me To Your Group➕",url='https://t.me/sflix_v3_dd_bot?startgroup=true')
                 ],[
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
                 ],[
