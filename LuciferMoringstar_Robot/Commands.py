@@ -121,6 +121,8 @@ async def start(bot, message):
                 ],[
                 InlineKeyboardButton("Help", callback_data="help"),
                 InlineKeyboardButton("About", callback_data="about")
+                ],[
+                InlineKeyboardButton("✨ Join Our Channel✨",url='https://t.me/Sflix2k')
                 ]]
             )
         )
