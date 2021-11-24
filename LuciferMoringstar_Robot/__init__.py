@@ -19,7 +19,7 @@ If you Like to Create Bot Message my Owner <a href='https://t.me/Don_Sflix/'>Don
 
 ○ How to Get movies in your group 
 Step 1 : Add me to your group As Admin 
-That's All 🙂 then I will provide movies In your Group   <a href='https://t.me/sflix_v3_dd_bot?startgroup=true/'>➕Add me to Your Group➕</a>
+That's All 🙂 then I will provide movies In your Group
 
 """
 
