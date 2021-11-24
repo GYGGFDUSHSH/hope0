@@ -23,7 +23,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**My Name is Saitama
+I Am Moveis Files Manager Of Sflix
+You Want to Create Bots like This Message my Owner @Don_Sflix**
 
 Here you can search files in inline mode. Just press follwing buttons and start searching.
 """
